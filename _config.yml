@@ -151,10 +151,10 @@ giscus:
   emit_metadata: 0
   lang: en
   
- # --- Polyglot Multilang Config ---
- languages: ["en", "tr"]
- default_lang: "en"
- exclude_from_localization: ["assets", "css", "js", "pdf", "vectors"]
+# --- Polyglot Multilang Config ---
+languages: ["en", "tr"]
+default_lang: "en"
+exclude_from_localization: ["assets", "css", "js", "pdf", "vectors"]
 
 # Disqus comments (DEPRECATED)
 disqus_shortname: al-folio # put your disqus shortname
