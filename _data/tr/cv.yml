@@ -1,0 +1,66 @@
+cv:
+  name: Mehmet Gençdal
+  label: Araştırma Görevlisi
+  email: mehmetgencdal@harran.edu.tr
+  location: Şanlıurfa, Türkiye
+  image: ""
+  summary: Yapay Zeka, Makine Öğrenmesi ve Optimizasyon alanlarında çalışmaktadır.
+
+  social_networks:
+    - network: GitHub
+      username: mehmetgencdal
+    - network: LinkedIn
+      username: mehmetgencdal
+
+  address:
+    street: Harran Üniversitesi
+    city: Şanlıurfa
+    region: Şanlıurfa
+    postalCode: 63040
+    countryCode: TR
+
+  sections:
+    Eğitim:
+      - institution: Aydın Adnan Menderes Üniversitesi
+        location: Aydın, Türkiye
+        area: Bilgisayar Mühendisliği
+        studyType: Lisans
+        start_date: 2018
+        end_date: 2023
+        highlights:
+          - GANO: 3.45/4.00
+
+    Deneyim:
+      - company: Harran Üniversitesi
+        position: Araştırma Görevlisi
+        location: Şanlıurfa, Türkiye
+        start_date: 2026
+        end_date: Halen
+        summary: 
+        highlights:
+          - Yapay Zeka
+          - Veri Bilimi
+
+      - company: DDI Technology
+        position: Bilgisayar Mühendisi
+        location: İstanbul, Türkiye
+        start_date: 2023
+        end_date: 2026
+        summary: DDI Technology firmasında Makine Öğrenmesi ve Yapay Zeka Mühendisi
+        highlights:
+          - 
+
+    Diller:
+      - name: Türkçe
+        summary: Ana dil
+
+      - name: İngilizce
+        summary: İleri düzey
+
+    İlgi Alanları:
+      - name: Yapay Zeka
+        icon: fa-solid fa-tag
+        keywords: Makine Öğrenmesi, Derin Öğrenme, Yapay Sinir Ağları
+      - name: Veri Bilimi
+        icon: fa-solid fa-tag
+        keywords: Veri Analizi, Veri Görselleştirme, Büyük Veri
